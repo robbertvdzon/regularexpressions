@@ -1,0 +1,7 @@
+.idea/
+*.ipr
+*.iml
+*.iws
+*.db
+*.old
+*.tab
